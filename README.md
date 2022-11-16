@@ -37,6 +37,7 @@ An Android app that displays a list of of dogs and their information.
 * User a scrollable list.
 * Use material design card
 * Use Scaffold for appbar
+* Extended Colors class for onclick Expand card color in animateColorState
 
 ## ANDROID BASICS WITH COMPOSE - Unit 3:  Display lists and use Material Design - Pathway 3: Build beautiful apps
 Link: https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-3

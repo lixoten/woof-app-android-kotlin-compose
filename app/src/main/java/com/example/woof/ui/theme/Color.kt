@@ -33,5 +33,6 @@ val Green100 = Color(0xFFCEEAD6)
 //Dark Theme
 val White = Color(0xFFFFFFFF)
 val Grey100 = Color(0xFFF1F3F4)
-val Cyan900 = Color(0xFF007B83)
+val Cyan25 = Color(0xFF61979B)
+val Cyan900 = Color(0xFF61979B)
 val Cyan700 = Color(0xFF129EAF)
